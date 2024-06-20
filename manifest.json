@@ -1,6 +1,6 @@
 {
-    "name": "kody_operator",
-    "short_name": "kody_operator",
+    "name": "wasmcounter",
+    "short_name": "wasmcounter",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
