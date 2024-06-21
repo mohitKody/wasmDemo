@@ -1,6 +1,6 @@
 {
-    "name": "wasmcounter",
-    "short_name": "wasmcounter",
+    "name": "demoo",
+    "short_name": "demoo",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
